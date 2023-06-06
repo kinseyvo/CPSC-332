@@ -1,4 +1,4 @@
-# CPSC-332
+# CPSC-332 File Structure & Database Systems
 
 ## Final Project ##
 Group Members: Kinsey Vo, Anthony Tran, Chence Shi, Serafina Yu
